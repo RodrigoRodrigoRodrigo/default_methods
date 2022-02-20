@@ -114,3 +114,9 @@ public class UsaInterestService implements InterestService {
 	}
 	
 }
+[13-interfaces.pdf](https://github.com/yarisb/default_methods/files/8104813/13-interfaces.pdf)
+![13-interfaces pdf](https://user-images.githubusercontent.com/61166475/154861255-151ce124-5a2d-4e80-85eb-5fea7bf086c6.png)
+![14-interfaces pdf](https://user-images.githubusercontent.com/61166475/154861264-0f5cdf82-68fc-4cfc-a688-c9ef61fdee0d.png)
+![15-interfaces pdf](https://user-images.githubusercontent.com/61166475/154861265-07078844-6f2a-4175-bdc6-685540661337.png)
+![16-interfaces pdf](https://user-images.githubusercontent.com/61166475/154861266-5caaa8cc-a26a-405d-bce2-11166cc163ed.png)
+![17-interfaces pdf](https://user-images.githubusercontent.com/61166475/154861267-bfca3d1e-3b60-400b-9e8a-452ce1ed8f0b.png)
